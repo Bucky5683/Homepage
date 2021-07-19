@@ -2864,7 +2864,8 @@ input, select, textarea {
 	section.special, article.special {
 		text-align: center;
 	}
-	.table{
+	.table_section{
+		padding: 3.5em 3em 1em 7em ;
 		width = 100%
 	}
 
