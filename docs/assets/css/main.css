@@ -1999,6 +1999,12 @@ input, select, textarea {
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
 		}
+		.features section .table{
+			padding: 3.5em 3em 1em 7em ;
+			width: 100%;
+			border-top: solid 1px rgba(255, 255, 255, 0.15);
+			position: relative;
+		}
 			.features section:nth-child(-n + 2) {
 				border-top-width: 0;
 			}
@@ -2863,10 +2869,6 @@ input, select, textarea {
 
 	section.special, article.special {
 		text-align: center;
-	}
-	.table_section{
-		padding: 3.5em 3em 1em 7em ;
-		width = 100%
 	}
 
 	header p {
