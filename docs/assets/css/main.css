@@ -2567,6 +2567,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style3-alt .icon.major:before {
+					height: 3em;
 					color: #0F3460;
 				}
 
